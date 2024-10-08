@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NavigationBar.master.cs" Inherits="PSD_Lab_Project.View.NavigationBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <h1>Navigation Bar</h1>
+        <div>
+            <asp:Button ID="BtnHomePage" runat="server" Text="Home" OnClick="BtnHomePage_Click" Visible="true"/>
+            <asp:Button ID="BtnLogin" runat="server" Text="Login" Visible="true" OnClick="BtnLogin_Click" />
+            <asp:Button ID="BtnRegister" runat="server" Text="Register" OnClick="BtnRegister_Click" Visible="true"/>
+            <asp:Button ID="BtnCart" runat="server" Text="Cart" Visible="true" OnClick="BtnCart_Click"/>
+            <asp:Button ID="BtnTransaction" runat="server" Text="Transaction" Visible="true" OnClick="BtnTransaction_Click"/>
+            <asp:Button ID="BtnTransactionReport" runat="server" Text="Transaction" Visible="true" OnClick="BtnTransactionReport_Click"/>
+            <asp:Button ID="BtnUpdate" runat="server" Text="UpdateProfile" Visible="true" OnClick="BtnUpdate_Click"/>
+            <asp:Button ID="BtnLogOut" runat="server" Text="LogOut" Visible="true" OnClick="BtnLogOut_Click"/>
+            <asp:ContentPlaceHolder ID="Body" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

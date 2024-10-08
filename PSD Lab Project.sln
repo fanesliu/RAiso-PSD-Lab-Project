@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSD Lab Project", "PSD Lab Project\PSD Lab Project.csproj", "{A670E4D1-AA17-45B2-BEC2-D0CCCC104826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A670E4D1-AA17-45B2-BEC2-D0CCCC104826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A670E4D1-AA17-45B2-BEC2-D0CCCC104826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A670E4D1-AA17-45B2-BEC2-D0CCCC104826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A670E4D1-AA17-45B2-BEC2-D0CCCC104826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2FA3B4-8E60-4C58-83D9-CB123063DC56}
+	EndGlobalSection
+EndGlobal

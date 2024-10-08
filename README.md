@@ -1,3 +1,4 @@
+![ClassDiagram](https://github.com/user-attachments/assets/cb332b35-e8fe-4a8b-83b4-f288a5659a40)
 # RAiso Online Stationery Store
 
 ## Project Overview

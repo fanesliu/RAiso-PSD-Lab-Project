@@ -69,7 +69,7 @@ The project includes a detailed documentation file:
 - **How to Use the Application:** Step-by-step guide for navigating and using the RAiso online store.
 
 ## Authors
-- **Ryan Marchi**
+- **Ryan Marchi** - Developer and Project Lead
 - **Fanes Liu**
 - **Stephen Hau**
 - **Stanislaus Kanaya Jerry Febriano**
